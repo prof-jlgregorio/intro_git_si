@@ -7,3 +7,12 @@
 .title {
     text-align: center;
 }
+
+.text {
+    color: blueviolet;
+}
+
+.highlight{
+    background-color: yellow;
+    color: green;
+}
